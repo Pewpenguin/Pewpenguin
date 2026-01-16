@@ -1,16 +1,48 @@
 ## Hi there 👋
 
-<!--
-**Pewpenguin/Pewpenguin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```bash
+$ whoami
+> Aryamann
+> Backend & AI Systems Developer
+> Building scalable systems, intelligent APIs, and research-grade AI pipelines.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+$ cat /bio.txt
+> 🧠 Strong focus on Backend Engineering, ML Systems, and LLM-based architectures.
+> 🤖 Hands-on with multi-model LLM systems, text-to-SQL, and MLOps pipelines.
+> 🧪 Research interest: Neural Radiance Fields (NeRF)
+> 💡 Ask me about Backend APIs, MLOps, LLM Systems, Text-to-SQL
+
+
+$ ls /tech-stack
+> languages/
+    Python.py        Go.go        Rust.rs        SQL.sql        Bash.sh
+
+> backend/
+    FastAPI          Flask             Docker             REST-APIs
+    SQLAlchemy       PostgreSQL        MySQL              Redis
+    Microservices    Async-IO          Linux              CI/CD
+
+> ai-ml/
+    TensorFlow       PyTorch           LLM-Systems        Text-to-SQL
+    MLOps            Data-Pipelines    Evaluation-Metrics
+  Vector-DBs/
+    Qdrant
+  LLM-Frameworks/
+    LangChain        Custom-Orchestration
+  Research/
+    NeRF             3D-Vision         Paper-Reading      Reproducibility
+
+> tools/
+    Git.sh           GitHub            Docker-CLI
+    VSCode.exe       Linux             Postman
+    LaTeX.tex        Notion.md
+
+
+$ ./show-stats.sh
+> Experience            : Software Developer
+> Primary Domains       : Backend Systems, ML Pipelines, LLM Orchestration
+> Strongest Languages   : Python > Rust > Go
+> Systems Built         : Text-to-SQL Engines, LLM Pipelines, Backend APIs
+
+```
